@@ -28,6 +28,8 @@ The `# Hello World` is called a **Header**. Any text after the hashtag will be a
 Do you want to know how I did `this`? Just add backticks ( \` ) to the front and end of the text you want to apply the **Inline code**.  
 Notice how some text are **bolded** and some are *emphasised (italics)?* They are done by applying asterisks like so: `**Bolded**` and `*emphasis*`  
 
-A link is written like this: `[Text to click](https://example.com)` and don't forget to add the `https://` or it won't work!  
+A link is written like this: `[Text to click](https://example.com)` and don't forget to add the `https://` or `http://` or it won't work!  
 
 The block quote was made by adding a `>` in the head of the line.
+
+An image: ![Sample text](https://sotakan.com/static/test.jpg)
