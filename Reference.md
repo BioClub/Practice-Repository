@@ -30,6 +30,24 @@ Notice how some text are **bolded** and some are *emphasised (italics)?* They ar
 
 A link is written like this: `[Text to click](https://example.com)` and don't forget to add the `https://` or `http://` or it won't work!  
 
-The block quote was made by adding a `>` in the head of the line.
+The **block quote** was made by adding a `>` in the head of the line.
 
 An image: ![Sample text](https://sotakan.com/static/test.jpg)
+
+Was added like this `![Sample text](https://sotakan.com/static/test.jpg)`
+
+Tables are not standard markdown but it's supported in [github](https://github.github.com/gfm/)
+
+Table | Coffee table | no more random table idea
+--- | --- | ---
+food | snack | piñata
+
+```
+Table | Coffee table | no more random table idea
+--- | --- | ---
+food | snack | piñata
+```
+
+[![Rick rolld!](https://img.youtube.com/vi/https://youtu.be/L5inD4XWz4U/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
+A youtube link is added like this: `[![Rick rolld!](https://img.youtube.com/vi/https://youtu.be/L5inD4XWz4U/0.jpg)](https://youtu.be/dQw4w9WgXcQ)`
